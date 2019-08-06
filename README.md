@@ -1,0 +1,2 @@
+# IST718Lab6
+The Syracuse Real Estate Investment Trust is currently looking for three zip codes to invest their capital in. Currently, the Trust has invested in four metro areas in Arkansas: Hot Springs, Fayetteville, Little Rock and Searcy. This proposal will review how these investments have performed since the initial investment in 1997 up to year end 2017. Following the review of current investments, a proposal for the next round of funding will be presented.
